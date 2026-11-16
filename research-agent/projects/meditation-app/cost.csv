@@ -1,0 +1,5 @@
+ts,step,model,in_tok,out_tok,searches,human_min,usd,estimated
+2026-11-15 20:10,1-brief,claude-opus,8000,1500,0,0,0.0775,est
+2026-11-15 20:13,2-collect,claude-opus,25000,1500,2,0,0.1825,est
+2026-11-15 20:13,3-research,claude-opus,15000,4000,0,0,0.1750,est
+2026-11-15 20:13,4-options,claude-opus,15000,4000,0,0,0.1750,est

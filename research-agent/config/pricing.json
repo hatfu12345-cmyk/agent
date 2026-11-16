@@ -1,0 +1,15 @@
+{
+  "_comment": "Цены в USD за 1 млн токенов. Проверьте актуальные цены у провайдера и обновите. human_hour — стоимость часа человека для учёта доработки.",
+  "currency": "USD",
+  "human_hour": 15.0,
+  "search_call": 0.01,
+  "models": {
+    "claude-opus":   {"in": 5.0,  "out": 25.0},
+    "claude-sonnet": {"in": 3.0,  "out": 15.0},
+    "claude-haiku":  {"in": 1.0,  "out": 5.0},
+    "gpt-5":         {"in": 1.25, "out": 10.0},
+    "gpt-5-mini":    {"in": 0.25, "out": 2.0},
+    "gigachat":      {"in": 0.0,  "out": 0.0},
+    "unknown":       {"in": 3.0,  "out": 15.0}
+  }
+}
